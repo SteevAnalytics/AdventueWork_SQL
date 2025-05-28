@@ -79,6 +79,10 @@ adventureworks-sql-analysis/
 - **AdventureWorks Database Documentation**  
   *(Includes schema, table relationships, and data model diagrams)*
 
+- AdventureWorks Database Documentation: 
+[Download AdventureWorks Documentation](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/adventure-works)
+
+
 ## 🚀 How to Use This Project
 1. Clone the repository:
    ```bash
