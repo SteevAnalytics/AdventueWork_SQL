@@ -10,10 +10,14 @@ As a newly hired Data Analyst at **AdventureWorks**, a leading manufacturer and 
 - Present findings in a clear, structured, and organized manner.
 
 ## 📁 Repository Structure
-📁 root
+adventureworks-sql-analysis/
+
 ├── Final MSSQL Project2.pdf
+
 ├── FinalProject_AdventureWorks_AdeniyiStephenAdewale.sql
+
 ├── README.md
+
 ├── Steve_adventureWork_SQL_Project.doc
 
 
