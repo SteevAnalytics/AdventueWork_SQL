@@ -73,7 +73,6 @@ adventureworks-sql-analysis/
 
 ## 🛠️ Tools & Technologies
 - **SQL Server Management Studio (SSMS)**
-- **Azure Data Studio**
 - **SQL** (T-SQL, Joins, Aggregates, Subqueries)
 
 ## 📚 Additional Resources
