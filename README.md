@@ -79,6 +79,6 @@ As a newly hired Data Analyst at **AdventureWorks**, a leading manufacturer and 
 ## 🚀 How to Use This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/adventureworks-sql-analysis.git
+   git clone https://github.com/SteevAnalytics/adventureworks-sql-analysis.git
 
 
