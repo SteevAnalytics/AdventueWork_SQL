@@ -81,4 +81,12 @@ As a newly hired Data Analyst at **AdventureWorks**, a leading manufacturer and 
    ```bash
    git clone https://github.com/SteevAnalytics/adventureworks-sql-analysis.git
 
+---
 
+<div align="center">
+
+💼 Developed by [Stephen Adeniyi](https://github.com/SteevAnalytics/) || 📅 2025
+
+
+
+</div>
